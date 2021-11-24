@@ -1,7 +1,7 @@
 # Weethara Jaemlok
 
-### Hi
-I am Weethara Jaemlok. you can call me **Wee**
+### About Me
+Hi, I am Weethara Jaemlok. you can call me **Wee**. I am student at Thammasart University, Thailand.
 
 
 ## Education
@@ -9,6 +9,18 @@ I am Weethara Jaemlok. you can call me **Wee**
 Latplakhao School since 2015 - 2020
 Thammasart U. since 2021 - Present
 ```
+### Experince
+### Skills
+### Contact
+
+
+// Examples
+Education          |  Year
+-------------------|-----------------
+Latplakhao School  |  2015 - 2020
+Thammasart U.      |  2021 - present
+Apex domain        |  pluralsight.com
+------------------------------------------
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
