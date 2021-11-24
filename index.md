@@ -6,7 +6,8 @@ I am Weethara Jaemlok. you can call me **Wee**
 
 ## Education
 ```
-Thammasart U. 2021 - Present
+Latplakhao School since 2015 - 2020
+Thammasart U. since 2021 - Present
 ```
 ### Markdown
 
