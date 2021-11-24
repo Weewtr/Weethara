@@ -3,7 +3,10 @@
 ## Hi
 I am Weethara Jaemlok. you can call me Wee
 
-```112121
+
+## Education
+```
+
 ```
 ### Markdown
 
