@@ -17,10 +17,10 @@ Thammasart U. since 2021 - Present
 // Experince
 Experince                                         |  Year
 --------------------------------------------------|-----------------------------------------------
-Participated Daimond Crown Eng. Compitiion        |  2016 - 2019
+Participated Daimond Crown Eng. Compition         |  2016 - 2019
 Participated Story Telling                        |  2018
-                                                  |  2021 - present
-                                                  |  pluralsight.com
+Shift and Share Camp                              |  2019
+2nd Place Thai Spelling Bee                       |  2018
 ---------------------------------------------------------------------------------------------------
 ### Markdown
 
