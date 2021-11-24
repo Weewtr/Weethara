@@ -1,6 +1,6 @@
 # Weethara Jaemlok
 
-# Hi
+## Hi
 I am Weethara Jaemlok. you can call me Wee
 
 
