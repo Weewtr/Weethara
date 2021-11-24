@@ -1,7 +1,8 @@
 # Weethara Jaemlok
 
-## Wee
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Hi
+I am Weethara Jaemlok. you can call me Wee
+
 
 ### Markdown
 
