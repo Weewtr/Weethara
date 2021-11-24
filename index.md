@@ -1,7 +1,7 @@
 # Weethara Jaemlok
 
 ## Hi
-I am Weethara Jaemlok. you can call me Wee
+I am Weethara Jaemlok. you can call me **Wee**
 
 
 ## Education
