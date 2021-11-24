@@ -14,13 +14,14 @@ Thammasart U. since 2021 - Present
 ### Contact
 
 
-// Examples
-Education          |  Year
--------------------|-----------------
-Latplakhao School  |  2015 - 2020
-Thammasart U.      |  2021 - present
-Apex domain        |  pluralsight.com
-------------------------------------------
+// Experince
+Experince                                         |  Year
+--------------------------------------------------|-----------------------------------------------
+Participated Daimond Crown Eng. Compitiion        |  2016 - 2019
+Participated Story Telling                        |  2018
+                                                  |  2021 - present
+                                                  |  pluralsight.com
+---------------------------------------------------------------------------------------------------
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
