@@ -6,7 +6,7 @@ I am Weethara Jaemlok. you can call me **Wee**
 
 ## Education
 ```
-
+Thammasart U. 2021 - Present
 ```
 ### Markdown
 
