@@ -19,8 +19,7 @@ Thammasart U. since 2021 - Present
 - Native Thai speaker
 - Understand Basic English
 ### Contact
-![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png)
-
+![image](https://img.in.th/image/WGxnrY)
 
 // Experince
 Experince                                         |  Year
