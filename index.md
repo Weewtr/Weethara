@@ -2,7 +2,6 @@
 
 
 ![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png =250x250)
-![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png)
 ![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png {width=40px height=400px})
 <img src="https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png" width="400" height="790">
 ### Porflie
