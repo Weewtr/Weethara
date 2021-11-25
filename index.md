@@ -12,7 +12,7 @@ Hi, I am Weethara Jaemlok. you can call me **Wee**. I am student at Thammasart U
 #### 4 
 ##### 5
 ###### 6
-####### 7
+
 
 
 ## Education
