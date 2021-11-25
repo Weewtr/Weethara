@@ -1,5 +1,7 @@
 # Weethara Jaemlok
 
+
+![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png)
 ### About Me
 Hi, I am Weethara Jaemlok. you can call me **Wee**. I am student at Thammasart University, Thailand.
 
@@ -16,11 +18,9 @@ Thammasart U. since 2021 - Present
 
 ### Experince
 ### Skills
-- Native Thai speaker
+- Swimming
 - Understand Basic English
-### line2
-![image](https://img.in.th/image/WGxnrY)
-### link1
+
 ![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png)
 
 // Experince
