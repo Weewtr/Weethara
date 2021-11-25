@@ -9,6 +9,11 @@ Hi, I am Weethara Jaemlok. you can call me **Wee**. I am student at Thammasart U
 Latplakhao School since 2015 - 2020
 Thammasart U. since 2021 - Present
 ```
+
+## Education
+- Latplakhao School since 2015 - 2020
+- Thammasart U. since 2021 - Present
+
 ### Experince
 ### Skills
 ### Contact
