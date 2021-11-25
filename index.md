@@ -21,7 +21,7 @@ Thammasart U. since 2021 - Present
 - Swimming
 - Understand Basic English
 
-![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png)
+
 
 // Experince
 Experince                                         |  Year
