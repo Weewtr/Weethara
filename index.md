@@ -6,6 +6,13 @@
 Hi, I am Weethara Jaemlok. you can call me **Wee**. I am student at Thammasart University, Thailand.
 
 
+# 1
+## 2
+### 3
+
+
+
+
 ## Education
 ```
 Latplakhao School since 2015 - 2020
