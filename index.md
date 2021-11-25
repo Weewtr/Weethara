@@ -20,6 +20,8 @@ Thammasart U. since 2021 - Present
 - Understand Basic English
 ### Contact
 ![image](https://ibb.co/JK0qMqg)
+![image](https://img.in.th/image/WGxyAL)
+![image](https://img.in.th/images/c416044bc44ecd9e83ed8f8e9e142e32.jpg)
 
 // Experince
 Experince                                         |  Year
