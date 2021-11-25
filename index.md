@@ -1,7 +1,7 @@
 # Weethara Jaemlok
 
 
-![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png)
+![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png =250x250)
 ### Porflie
 Hi, I am Weethara Jaemlok. you can call me **Wee**. I am studying about data sci and innovation at Thammasart university. 
 
