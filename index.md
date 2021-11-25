@@ -34,7 +34,7 @@ Line id : weewtr
 | 2nd Place Thai Spelling Bee | 2018 |
 
 ### Certificate
-- <img src="https://img.in.th/images/10751608243c9e2a41b7785c61a25a7a.jpg" width="400" height="450">
+- <img src="https://img.in.th/images/10751608243c9e2a41b7785c61a25a7a.jpg" width="400" height="350">
 - <img src="https://img.in.th/images/bd2b53b328276e240f79b6a023af63c4.jpg" width="" height="">
 - <img src="https://img.in.th/images/98e064500b0ea6fd16cc23a57edc567f.jpg" width="" height="">
 
