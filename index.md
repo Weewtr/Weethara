@@ -20,7 +20,7 @@ Thammasart U. since 2021 - Present
 ### Skills
 - Swimming
 - Understand Basic English
-
+- Badminton
 
 
 ### Activity and Work Experince
