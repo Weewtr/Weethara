@@ -3,7 +3,8 @@
 
 <img src="https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png" width="200" height="250">
 ### Porflie
-Hi, I am Weethara Jaemlok. you can call me **Wee**. I am studying about data sci and innovation at Thammasart university.
+Hi, I am Weethara Jaemlok. you can call me **Wee**. I am studying about Data Science and Innovation at Thammasart university.
+i was born in 2003 and raised in Thailand.
 
 ### Education
 
@@ -17,12 +18,9 @@ Thammasart U. since 2021 - Present
 - Understand Basic English
 - Badminton
 
-### Contact
-Phone : (+66)645485824
-
-Email : weewtr1121@gmail.com
- 
-Line id : weewtr 
+### Hobby 
+- Lisening to music
+- Reading Novel
 
 ### Activity Experience
 
@@ -38,3 +36,9 @@ Line id : weewtr
 - <img src="https://img.in.th/images/bd2b53b328276e240f79b6a023af63c4.jpg" width="350" height="250">
 - <img src="https://img.in.th/images/98e064500b0ea6fd16cc23a57edc567f.jpg" width="350" height="250">
 
+### Contact
+Phone : (+66)645485824
+
+Email : weewtr1121@gmail.com
+ 
+Line id : weewtr 
