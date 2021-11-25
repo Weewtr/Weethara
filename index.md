@@ -4,7 +4,8 @@
 <img src="https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png" width="200" height="250">
 ### Porflie
 Hi, I am Weethara Jaemlok. you can call me **Wee**. I am studying about Data Science and Innovation at Thammasart university.
-i was born in 2003 and raised in Thailand.
+
+I was born in 2003 and raised in Thailand.
 
 ### Education
 
