@@ -3,7 +3,7 @@
 
 <img src="https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png" width="200" height="250">
 ### Porflie
-Hi, I am Weethara Jaemlok. you can call me **Wee**. I am studying about data sci and innovation at Thammasart university. 
+Hi, I am Weethara Jaemlok. you can call me **Wee**. I am studying about data sci and innovation at Thammasart university.
 
 ### Education
 
@@ -34,9 +34,9 @@ Line id : weewtr
 | 2nd Place Thai Spelling Bee | 2018 |
 
 ### Certificate
--
--
--
+- <img src="https://img.in.th/images/10751608243c9e2a41b7785c61a25a7a.jpg" width="200" height="250">
+- <img src="https://img.in.th/images/bd2b53b328276e240f79b6a023af63c4.jpg" width="200" height="250">
+- <img src="https://img.in.th/images/98e064500b0ea6fd16cc23a57edc567f.jpg" width="200" height="250">
 -
 -
 
