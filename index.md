@@ -16,8 +16,10 @@ Thammasart U. since 2021 - Present
 
 ### Experince
 ### Skills
+- Native Thai speaker
+- Understand Basic English
 ### Contact
-
+![image](https://ibb.co/JK0qMqg)
 
 // Experince
 Experince                                         |  Year
