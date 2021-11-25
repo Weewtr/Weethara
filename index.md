@@ -2,39 +2,29 @@
 
 
 ![image](https://img.in.th/images/b42487d7f114e3bc89e3bc7183d08167.png)
-### About Me
-Hi, I am Weethara Jaemlok. you can call me **Wee**. I am student at Thammasart University, Thailand.
+### Porflie
+Hi, I am Weethara Jaemlok. you can call me **Wee**. I am studying about data sci and innovation at Thammasart university. 
 
+### Education
 
-# 1
-## 2
-### 3
-#### 4 
-##### 5
-###### 6
-
-
-
-## Education
 ```
 Latplakhao School since 2015 - 2020
 Thammasart U. since 2021 - Present
-
 ```
-
-## Education
-- Latplakhao School since 2015 - 2020
-- Thammasart U. since 2021 - Present
 
 ### Skills
 - Swimming
 - Understand Basic English
 - Badminton
 
+### Contact
+Phone : (+66)645485824
 
-### Activity and Work Experience
+Email : weewtr1121@gmail.com
+ 
+Line id : weewtr 
 
-
+### Activity Experience
 
 | Experince | Year |
 | --- | --- |
@@ -42,4 +32,7 @@ Thammasart U. since 2021 - Present
 | Participated Story Telling | 2018 |
 | Shift and Share Camp | 2019
 | 2nd Place Thai Spelling Bee | 2018 |
-|  | |
+
+### certificate
+
+
